@@ -1,12 +1,50 @@
-# React + Vite
+# 🌟 Dream Six
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Dream Six** – your very own virtual player auction platform! Create your dream team by claiming coins and selecting your favorite players. It's simple, fast, and fun!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Description
 
-## Expanding the ESLint configuration
+Dream Six is a sleek and interactive player auction site where users can claim coins and use them to pick up to six players for their ultimate team. Whether you're planning a fantasy league or just having some fun, this tool makes it exciting and easy.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Technologies Used
+
+- ⚡ **React (Vite)** – Lightning-fast front-end development.
+- 🔔 **React Toastify** – Elegant toast notifications for feedback and alerts.
+- 🎨 **React Icons** – Clean and scalable icons to enhance UI.
+
+---
+
+## ✨ Key Features
+
+- 💰 **Claim Coins**  
+  Press the "Claim" button to instantly add coins to your wallet and start building your team.
+
+- 🧢 **Choose Players**  
+  Select up to **6 players** from a pool to form your squad. Once selected, a player is locked in.
+
+- 📋 **View & Manage Team**  
+  Get a real-time view of your selected players. Want to make changes? You can remove players and reselect as needed.
+
+---
+
+## 📸 Screenshots
+
+![SS 1](https://github.com/user-attachments/assets/1aa2ea77-65bb-4207-93c2-3eda5a926049)
+
+![SS 2](https://github.com/user-attachments/assets/ebd8f16c-79d5-4108-b1dd-2a60585ba6eb)
+
+---
+
+## 🛠️ Getting Started
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/your-username/dream-six.git
+cd dream-six
+npm install
+npm run dev
