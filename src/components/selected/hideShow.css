@@ -1,0 +1,6 @@
+.hideSelectedComponent {
+    display: none;
+}
+.showSelectedComponent {
+    display: flex;
+}

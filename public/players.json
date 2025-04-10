@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg",
+    "name": "Virat Kohli",
+    "country": "India",
+    "type": "Batsman",
+    "rating": 4.9,
+    "handed": "Right-Hand",
+    "price": 1700000
+  },
+  {
+    "id": 2,
+    "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRiZCzaE9grJSAGjyOnVWCRq4e17VEgWz4Jw2vTy-cbyGIqhA3EaI4m8YVNFXUhNTwc3gWYs-_ZLOMTvs4",
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "type": "Batsman",
+    "rating": 4.8,
+    "handed": "Right-Hand",
+    "price": 1600000
+  },
+  {
+    "id": 3,
+    "image": "https://img.mensxp.com/media/content/2020/Jan/Kane-Williamson-Should-Be-The-Official-Mascot-For-People-Who-Learn-To-Hide-Pain-With-A-Smile-1200x900_5e32a6abdd866.jpeg",
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "type": "Batsman",
+    "rating": 4.7,
+    "handed": "Right-Hand",
+    "price": 1500000
+  },
+  {
+    "id": 4,
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBq6H7ZGguq-6hfcNBg7DZZjE0p7uyiYIw3EboQKmqm5LDu8Bj7yX7Pn0KPHdAZWnagL2o-wSxEt8OxoZ4BCCXAQ",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "type": "Bowler",
+    "rating": 4.6,
+    "handed": "Right-Hand",
+    "price": 1450000
+  },
+  {
+    "id": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeoWbSnaFXZNWWC8eTrap_AkK3UP0uf0_U1AWpbmDcu9nFX7javEKWPJqiXWVhaHP6bQh7LG55uTdA0mFjOtMAKw",
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "type": "Bowler",
+    "rating": 4.5,
+    "handed": "Right-Hand",
+    "price": 1400000
+  },
+  {
+    "id": 6,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSfrD_HUfOtpKcGpPU7thbdTSVpKdxhjXb3sZa6abPNHPhv47mZAFJr7PVJYj-zZexfxV2JzTBIY1Pi5fs",
+    "name": "Ben Stokes",
+    "country": "England",
+    "type": "All-Rounder",
+    "rating": 4.8,
+    "handed": "Left-Hand",
+    "price": 1800000
+  },
+  {
+    "id": 7,
+    "image": "https://c.ndtvimg.com/2023-11/075r9f6k_glenn-maxwell-ani_640x480_07_November_23.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "type": "All-Rounder",
+    "rating": 4.4,
+    "handed": "Right-Hand",
+    "price": 1350000
+  },
+  {
+    "id": 8,
+    "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRb4XzOvL50Cz5MAGhmW4PDczIXelLsfI3Ejo_bTA32AyYWuaqV2zTY1pnUENXkddSzeWF1icrFI8adFHI",
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "type": "Bowler",
+    "rating": 4.5,
+    "handed": "Left-Hand",
+    "price": 1370000
+  },
+  {
+    "id": 9,
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmxq1BD7or3oGtNUoRNho5gp--HFQ6sS5_dKUWW6HjfF7W0OwVJC2oP9QcIYzQ2kUQqYhSkwG7Rq8HA3aTQKCVdg",
+    "name": "David Warner",
+    "country": "Australia",
+    "type": "Batsman",
+    "rating": 4.3,
+    "handed": "Left-Hand",
+    "price": 1300000
+  },
+  {
+    "id": 10,
+    "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTCbjTIedmQdn-KwXhJI2n1cywINB54Nd0gRHJoxd1UCh8m2NWk28NBvuUSuAJEk10SO9Nee0vwotSGiLQ",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "type": "All-Rounder",
+    "rating": 4.6,
+    "handed": "Left-Hand",
+    "price": 1480000
+  },
+  {
+    "id": 11,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/398300/398363.jpg",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "type": "Bowler",
+    "rating": 4.7,
+    "handed": "Right-Hand",
+    "price": 1550000
+  },
+  {
+    "id": 12,
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTa1Hr7EOQy_zsbD3DwVklhNEZWb0VqIYoASbsBAgCcjrcb-uCHMa3S4BQKHWsSaechDxg1IShOe7pZFNI",
+    "name": "Joe Root",
+    "country": "England",
+    "type": "Batsman",
+    "rating": 4.6,
+    "handed": "Right-Hand",
+    "price": 1490000
+  }
+]
