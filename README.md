@@ -33,9 +33,9 @@ Dream Six is a sleek and interactive player auction site where users can claim c
 
 ## 📸 Screenshots
 
-![SS 1](https://github.com/user-attachments/assets/1aa2ea77-65bb-4207-93c2-3eda5a926049)
+![SS 1](https://github.com/user-attachments/assets/4e199f14-6c9f-4f39-ac0b-082cb2833da1)
 
-![SS 2](https://github.com/user-attachments/assets/ebd8f16c-79d5-4108-b1dd-2a60585ba6eb)
+![SS 2](https://github.com/user-attachments/assets/c6629d5c-e507-4bfb-8274-0020b533c4db)
 
 ---
 
