@@ -40,11 +40,3 @@ Dream Six is a sleek and interactive player auction site where users can claim c
 ---
 
 ## 🛠️ Getting Started
-
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/your-username/dream-six.git
-cd dream-six
-npm install
-npm run dev
